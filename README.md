@@ -3,8 +3,35 @@
 🔭 **I'm currently working on:** AI-powered applications and practical web development projects.<br><br>👯 **I'm looking to collaborate on:** AI/ML projects, innovative web apps, and open-source projects.<br><br>🤝 **I'm looking for help with:** Improving my coding skills, software development best practices, and building scalable applications.<br><br>🌱 **Languages/ Skills.:** C++, Python, web development, AI/ML, C, AI Tools, vibe coding.<br><br>💬 **Ask me about:** Python, vibe coding, beginner-friendly programming, AI project ideas, and web development.<br><br>⚡ **Fun fact:** I love coding and exploring how technology can solves real world problems.
 
 
-## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/hemraj-ks-aa7645374)
+### 🤝 Connect with me
+ ## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-Hemraj KS/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
+  </a>
+</p>
+
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemrajarjun4708@gmail.com) 
+
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+⭐ *Learning by building. Growing through code.*
+
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemrajarjun4708@gmail.com) 
 
 # 💻 Tech Stack:
@@ -17,7 +44,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemraj45KS&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
