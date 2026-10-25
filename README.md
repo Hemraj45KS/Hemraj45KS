@@ -7,7 +7,7 @@
  ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-Hemraj KS/" target="_blank">
+  <a href="https://www.linkedin.com/in/Hemraj KS/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
   </a>
 </p>
